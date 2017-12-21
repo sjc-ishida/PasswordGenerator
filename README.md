@@ -1,7 +1,7 @@
 # Usage
 
 ```
- $ git clone git@github.com:sjc-ishida/PasswordGenerator.git
+ $ git clone https://github.com/sjc-ishida/PasswordGenerator.git
  $ cd PasswordGenerator
  $ ruby sample.rb
 ```
